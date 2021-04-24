@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rajkumarpal07
-- 👀 I’m interested in many things
-- 🌱 I’m currently learning Golang, K8s
-- 💞️ I’m looking to collaborate on any interesting projects
+- 👋 Hey all, I'm Rajkumar! I'm a Solutions Architect at CogniDyne, near Bangalore,India. Born and raised in Vellore, India I moved down to Dallas, Texas after college to consult for I2 Technologies and General Electric Power Systems as a Software Engineer. Then I joined BAE Systems in Washingotn DC and nine years later moved back to India.
+- 👀 I’m interested in many things...
+- 🌱 I’m currently learning Golang, K8s!
+- 💞️ I’m looking to collaborate on any interesting projects...
 - 📫 How to reach me :: rajkumarpalani07 [at] gmail
 
 <!---
