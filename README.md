@@ -1,4 +1,4 @@
-###👋 Hey all, I'm Rajkumar! 
+### Hey all, I'm Rajkumar! 👋
 - I'm a Solutions Architect at CogniDyne, near Bangalore, India. Born and raised in Vellore, India - I moved down to Dallas, Texas after college to consult for I2 Technologies and General Electric Power Systems as a Software Engineer. Then I joined BAE Systems in Washington,DC and nine years later moved back to India.
 - 👀 https://www.rajkumarpalani.com/personal/
 - 🌱 I’m currently learning Golang, K8s!
