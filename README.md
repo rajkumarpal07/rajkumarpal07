@@ -29,4 +29,6 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a>
     <a href="https://redis.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/></a>
 </p>    
-    
+
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumarpal07" alt="rajkumarpal07" /> </p>
